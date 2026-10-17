@@ -1,0 +1,2 @@
+# Output Images
+This folder includes generated images of 5 different models, each model has generated 300 images of nuclear bundle of different shape(100 cylinder, 100 rectangular and 100 octagon). The models are trained with 1000, 2000, 3000 and 5000 epochs.
